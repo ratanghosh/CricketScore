@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Apex Tour Guide</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!--**********************Strings for beaches**********************************-->
+
+    <string name="beach_grand_haven_name"> Grand Haven Beach</string>
+    <string name="beach_grand_haven_schedule">Mon-Sun  | 8.00am - 10.00pm \nNo Off Day</string>
+    <string name="beach_grand_haven_address">1001 S Harbor Dr \nGrand Haven, MI 49417</string>
+
+    <string name="beach_bear_dune_name"> Bear Dune Beach</string>
+    <string name="beach_bear_dune_schedule">Mon-Sun | 10.00am - 8.00pm \nNo Off Day</string>
+    <string name="beach_bear_dune_address"> Peterson rd \nHonor, MI 49640 </string>
+
+    <string name="beach_copper_harbor_name"> Copper Harbor Beach</string>
+    <string name="beach_copper_harbor_schedule">Mon-Sun | 10.00am - 8.00pm \nNo Off Day</string>
+    <string name="beach_copper_harbor_address"> Copper Harbor, MI 49918 </string>
+
+    <string name="beach_empire_beach_name"> Empire Beach</string>
+    <string name="beach_empire_beach_schedule">Mon-Sun | 10.00am - 8.00pm \nNo Off Day</string>
+    <string name="beach_empire_beach_address"> Empire, MI 49630 </string>
+
+    <string name="beach_north_manitou_name"> North Manitou Beach</string>
+    <string name="beach_north_manitou_schedule">Mon-Sun | 10.00am - 8.00pm \nNo Off Day</string>
+    <string name="beach_north_manitou_address"> Leland Township, MI </string>
+
+    <string name="beach_orchard_beach_name"> Orchard Beach</string>
+    <string name="beach_orchard_beach_schedule">Mon-Sun | 8.00am - 10.00pm \nNo Off Day</string>
+    <string name="beach_orchard_beach_address"> 2064 Lakeshore Rd \nManistee, MI 49660 </string>
+
+    <string name="beach_rogers_city_name"> Rogers City Beach</string>
+    <string name="beach_rogers_city_schedule">Sat-Sun | 8.00am - 8.00pm \nNo Off Day</string>
+    <string name="beach_rogers_city_address">  Rogers City, MI 49779 </string>
+
+    <string name="beach_silver_lake_name"> Silver Lake Beach</string>
+    <string name="beach_silver_lake_schedule">Mon-Sun | 8.00am - 10.00pm \nNo Off Day</string>
+    <string name="beach_silver_lake_address">  9679 W State Park Rd \nMears, MI 49436 </string>
+
+    <string name="beach_south_park_name"> South Park Beach</string>
+    <string name="beach_south_park_schedule">Mon-Sat | 7.00am - 11.00pm \nSunday Off</string>
+    <string name="beach_south_park_address">  60 Water St \nSouth Haven, MI 49090 </string>
+
+    <string name="beach_tiscornia_beach_name"> Trscornia Beach</string>
+    <string name="beach_tiscornia_beach_schedule">Mon-Sun | 6.00am - 10.00pm \nNo Off Day</string>
+    <string name="beach_tiscornia_beach_address">  80 Ridgeway St \nSt Joseph, MI 49085 </string>
+
+    <!--**********************Strings for parks**********************************-->
+    <string name="park_rosa_park_name"> Rosa Park</string>
+    <string name="park_rosa_park_schedule">All day open park</string>
+    <string name="park_rosa_park_address">  301 Monree St \nGrand Rapids, MI 49503 </string>
+
+    <string name="park_fish_ladder_name"> Fish Ladder Park</string>
+    <string name="park_fish_ladder_schedule">All day open park</string>
+    <string name="park_fish_ladder_address">  207 Fulton St \nGrand Rapids, MI 49503 </string>
+
+    <string name="park_river_side_name"> River Side Park</string>
+    <string name="park_river_side_schedule">Sun-Sat | 6.00am - 8.00pm \nNo Off Day</string>
+    <string name="park_river_side_address">  345 College St. \nGrand Rapids, MI 49508 </string>
+
+    <string name="park_meijer_garden_name"> Meijer Garden</string>
+    <string name="park_meijer_garden_schedule">Thu-Tue | 2.00pm - 7.00pm \nWednesday Off</string>
+    <string name="park_meijer_garden_address">  351 Cidermill Drive \nWalker, MI 49513 </string>
+
+    <string name="park_cascade_park_name"> Cascade Park</string>
+    <string name="park_cascade_park_schedule">All day open park</string>
+    <string name="park_cascade_park_address">  1745 Main St. \nHestings, MI 49553 </string>
+
+    <string name="park_pere_martin_name"> Pere Martin Park</string>
+    <string name="park_pere_martin_schedule">All day open park</string>
+    <string name="park_pere_martin_address">  367 Riverview Drive \nMears, MI 49444 </string>
+
+    <string name="park_grand_valley_name"> Grand Valley</string>
+    <string name="park_grand_valley_schedule">All day open park</string>
+    <string name="park_grand_valley_address">  1 Campus Drive \nAllendale, MI 49307 </string>
+
+    <string name="park_jr_ford_name"> JR Ford Park</string>
+    <string name="park_jr_ford_schedule">All day open park</string>
+    <string name="park_jr_ford_address">  206 Fuller St \nGrand Rapids, MI 49503 </string>
+
+    <string name="park_huff_park_name"> Huff Park</string>
+    <string name="park_huff_park_schedule">Mon-Sat | 6.00am - 9.00pm \nSunday Off</string>
+    <string name="park_huff_park_address">  2399 Ball Ave NE \nGrand Rapids, MI 49505 </string>
+
+    <string name="park_aberdeen_park_name"> Aberdeen Park</string>
+    <string name="park_aberdeen_park_schedule">Mon-Sun | 6.00am - 9.00pm \nNo Off Day</string>
+    <string name="park_aberdeen_park_address">  2230 Eastern Ave NE \nGrand Rapids, MI 49505 </string>
+
+
+    <!--**********************Strings for restaurants**********************************-->
+
+    <string name="restaurants_curry_kitchen_name"> Curry Kitchen</string>
+    <string name="restaurants_curry_kitchen_schedule">Mon-Sat | 11.00am - 8.00pm \nSunday Off </string>
+    <string name="restaurants_curry_kitchen_address">  1133 3rd St \nMuskegon, MI 49441 </string>
+
+    <string name="restaurants_carmens_cafe_name"> Carmen\'s Cafe</string>
+    <string name="restaurants_carmens_cafe_schedule">Sat-Sun | 7.00am - 2.00pm \nSunday Off </string>
+    <string name="restaurants_carmens_cafe_address">  878 Jefferson St \nMuskegon, MI 49440 </string>
+
+    <string name="restaurants_royal_bengal_name"> Royal Bengal</string>
+    <string name="restaurants_royal_bengal_schedule">Mon-Sun | 11.00am - 9.00pm \nNo Off Day </string>
+    <string name="restaurants_royal_bengal_address">  26029 Hoover Rd \nWarren, MI 48089 </string>
+
+    <string name="restaurants_detroit_masala_name"> Detroit Masala</string>
+    <string name="restaurants_detroit_masala_schedule">Mon-Sun | 11.00am - 9.00pm \n NoOff Day </string>
+    <string name="restaurants_detroit_masala_address">  4154 3rd street \nDetroit, MI 48201 </string>
+
+    <string name="restaurants_bombay_kitchen_name"> Bombay Kitchen</string>
+    <string name="restaurants_bombay_kitchen_schedule">Mon-Sun | 11.00am - 10.00pm \nNo Off Day </string>
+    <string name="restaurants_bombay_kitchen_address">  1420 Lake Dr SE \nGrand Rapids, MI 49506 </string>
+
+    <string name="restaurants_curry_leaf_name"> Curry Leaf</string>
+    <string name="restaurants_curry_leaf_schedule">Sat-Sun | 11.00am - 9.00pm \nNo Off Day </string>
+    <string name="restaurants_curry_leaf_address">  2222 44th St SE \nGrand Rapids, MI 49508 </string>
+
+    <string name="restaurants_desi_spice_name"> Desi Spice</string>
+    <string name="restaurants_desi_spice_schedule">Tue-Sun | 11.00am - 9.00pm \nMonday Off </string>
+    <string name="restaurants_desi_spice_address">  4445 Breton Rd SE suite d \nGrand Rapids, MI 49508 </string>
+
+    <string name="restaurants_thai_bistro_name">Thai Bistro</string>
+    <string name="restaurants_thai_bistro_schedule">Mon-Sun | 11.00am - 9.00pm \nNo Off Day </string>
+    <string name="restaurants_thai_bistro_address">  2055 28th St SE \nGrand Rapids, MI 49508 </string>
+
+    <string name="restaurants_sree_saffron_name"> Desi Spice</string>
+    <string name="restaurants_sree_saffron_schedule">Mon-Sun | 11.00am - 9.00pm \nNo Off Day </string>
+    <string name="restaurants_sree_saffron_address">  4750 Hagadorn Rd 60, \nEast Lansing, MI 48823 </string>
+
+    <string name="restaurants_sultan_name"> Sultan</string>
+    <string name="restaurants_sultan_schedule">Mon-Sun | 11.00am - 9.00pm \nNo Off Day </string>
+    <string name="restaurants_sultan_address">  4790 Hagadorn Rd \nEast Lansing, MI 48823 </string>
+
+    <!--**********************Strings for bars**********************************-->
+
+    <string name="bars_hop_cat_name"> Hop Cat</string>
+    <string name="bars_hop_cat_schedule">Mon-Sat | 7.00pm - 2.00am \nSunday Off </string>
+    <string name="bars_hop_cat_address">  1031 2nd St \nMuskegon, MI 49441 </string>
+
+    <string name="bars_bob_name"> BOB </string>
+    <string name="bars_bob_schedule">Tue-Sat | 6.00pm - 2.30am \nMonday Off </string>
+    <string name="bars_bob_address">  878 Henry St \nMuskegon, MI 49440 </string>
+
+    <string name="bars_stela_name"> Stela Bar</string>
+    <string name="bars_stela_schedule">Sat-Fri | 3.00pm - 2.00am \nSunday Off </string>
+    <string name="bars_stela_address">  26029 Hoover Rd \nWarren, MI 48089 </string>
+
+    <string name="bars_blue_cap_name"> Blue Cap</string>
+    <string name="bars_blue_cap_schedule">Sat-Fri | 3.00pm - 2.00am \nSunday Off </string>
+    <string name="bars_blue_cap_address">  3454 main street \nDetroit, MI 48201 </string>
+
+    <string name="bars_royal_club_name"> Royal Club</string>
+    <string name="bars_royal_club_schedule">Sat-Fri | 5.00pm - 1.00am \nSunday Off </string>
+    <string name="bars_royal_club_address">  945 lake circuit Dr SE \nGrand Rapids, MI 49506 </string>
+
+    <string name="bars_nando_name"> NANDO</string>
+    <string name="bars_nando_schedule">Mon-Sun | 11.00am - 11.00pm \nNo Off Day </string>
+    <string name="bars_nando_address">  2222 44th St SE \nGrand Rapids, MI 49508 </string>
+
+    <string name="bars_sweet_dream_name"> Sweet Dream</string>
+    <string name="bars_sweet_dream_schedule">Sun-Sat | 9.00am - 10.00pm \nMonday Off </string>
+    <string name="bars_sweet_dream_address">  4445 Breton Rd SE suite d \nGrand Rapids, MI 49508 </string>
+
+    <string name="bars_exotica_name">Exotica</string>
+    <string name="bars_exotica_schedule">Sun-Sat | 11.00am - 9.00pm \nNo Off Day </string>
+    <string name="bars_exotica_address">  2055 28th St SE \nGrand Rapids, MI 49508 </string>
+
+    <string name="bars_cowboy_name"> Cowboy</string>
+    <string name="bars_cowboy_schedule">Sun-Sat | 11.00am - 9.00pm \nNo Off Day </string>
+    <string name="bars_cowboy_address">  4750 Hagadorn Rd 60, \nEast Lansing, MI 48823 </string>
+
+    <string name="bars_western_lounge_name"> Western Lounge</string>
+    <string name="bars_western_lounge_schedule">Sun-Sat | 11.00am - 9.00pm \nNo Off Day </string>
+    <string name="bars_western_lounge_address">  4790 Hagadorn Rd \nEast Lansing, MI 48823 </string>
+
+    <string name="main_page_article">\t Apex tour group is a Michigan based travel group. we operate
+    tour at popular tourist destination including Mackinac island and Upper peninsula. Please check our
+        package tour options available from the top left corner menu. Customized tour option also
+        available for small group. To know about more please contact with us.
+        We are happy to help with more information.    </string>
+    <string name="slogan">Motto: Explore Pure Michigan</string>
+    <string name="phone_number">Phone:(616)312-1097</string>
+    <string name="address">Address:\n513 Lay Street\nGrand Rapids, Michigan-49503</string>
+
+
+</resources>
